@@ -1,2 +1,2 @@
-# OSD600Notes
-Personal study notes
+# OSD600
+418 I'm a teapot
